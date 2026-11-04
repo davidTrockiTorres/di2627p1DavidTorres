@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ProyectoInterfaces_DavidTorres</string>
+    <string name="agenda_y_contactos">AGENDA Y CONTACTOS</string>
+    <string name="acme_inc">Acme Inc.</string>
+    <string name="agenda">Agenda</string>
+    <string name="nuevo_evento">Nuevo Evento</string>
+    <string name="contactos">Contactos</string>
+    <string name="opciones">opciones</string>
+    <string name="acme_inc_c_2012">Acme Inc.(c) 2012</string>
+    <string name="http_www_acme_com">http://www.acme.com</string>
+    <string name="a_adir_contacto">Añadir Contacto</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="email">Email</string>
+    <string name="sexo">Sexo</string>
+    <string name="mujer">Mujer</string>
+    <string name="grupo">Grupo</string>
+    <string name="amigos">Amigos</string>
+    <string name="familiares">Familiares</string>
+    <string name="trabajo">Trabajo</string>
+    <string name="hombre">Hombre</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="vip">VIP</string>
+</resources>

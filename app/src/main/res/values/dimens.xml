@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo">20sp</dimen>
+    <dimen name="subtitulo">16sp</dimen>
+    <dimen name="botones">16sp</dimen>
+    <dimen name="pie">16sp</dimen>
+    <dimen name="altura_imagen">145dp</dimen>
+    <dimen name="padding">15dp</dimen>
+</resources>
